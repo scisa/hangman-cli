@@ -1,0 +1,9 @@
+class GlobalVariables:
+    LOWEST_INDEX_OF_MENU = 0
+    MAX_BEFORE_DEATH = 0
+    IS_PRINTING_STATISTICS = False
+    REQUESTED_LEVEL = 1
+    MENU_COUNTER = 0
+    SCRIPT_EXECUTION_PATH = ''
+    DEFAULT_WORD = 'password'
+    IS_INSTANT_PLAYING = False
